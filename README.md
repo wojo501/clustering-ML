@@ -14,6 +14,14 @@ Pytania do projektu:
 6. Czy tak samo jak w przypadku budowy modeli należy tutaj liczyć korelację pomiędzy kolumnami i usuwać te z wysoką korelacją?
 <br> Nie
 
+BŁĘDY PO 1 PREZENTACJI:
+- ustalić business case
+- nie używać kolumny celu do klasteryzacji, będziemy budować na tym modele klasyfikacyjne
+- podział na train/test
+- walidacja klastrów na podstawie porównania weźmie kredyt/nie weźmie
+- przy interpretacji klastrów zbudować model klasyfikacyjny i zobaczyć feature importacne i wybrać do 3 klolumn do wizualizacji
+- przy PCA ustalić treshold na variancje, a nie na procent kolumn
+
 ![instrukcja](https://github.com/wojo501/clusteringML/blob/main/images/instruction.png)
 
 
