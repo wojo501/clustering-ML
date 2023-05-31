@@ -18,7 +18,7 @@ BŁĘDY PO 1 PREZENTACJI:
 - ustalić business case
 - nie używać kolumny celu do klasteryzacji, będziemy budować na tym modele klasyfikacyjne
 - podział na train/test
-- walidacja klastrów na podstawie porównania weźmie kredyt/nie weźmie
+- walidacja klastrów na podstawie porównania weźmie kredyt/nie weźmie?
 - przy interpretacji klastrów zbudować model klasyfikacyjny i zobaczyć feature importacne i wybrać do 3 klolumn do wizualizacji
 
 ![instrukcja](https://github.com/wojo501/clusteringML/blob/main/images/instruction.png)
